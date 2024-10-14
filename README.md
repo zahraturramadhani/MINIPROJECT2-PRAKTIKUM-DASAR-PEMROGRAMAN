@@ -40,4 +40,12 @@ Gambar diatas menunjukan Anda akan memilih sesuai role yaitu ada Admin dan User.
 
   ![Cuplikan layar 2024-10-14 150554](https://github.com/user-attachments/assets/60bf0e8a-9d64-4eb6-b3b1-e4d1ca8d407b)
 
+* Jika Anda input angka 2, maka Anda login sebagai User
+  
+  ![Cuplikan layar 2024-10-14 151222](https://github.com/user-attachments/assets/8b1438f8-675b-41d0-9ce5-f2cbcd355268)
+  
+* Jika Anda input angka selain angka 1 dan 2, maka akan 
+
+
+
 
