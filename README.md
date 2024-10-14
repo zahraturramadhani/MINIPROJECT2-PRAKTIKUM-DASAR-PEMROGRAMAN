@@ -161,16 +161,17 @@ Pada Menu admin, Anda akan diberikan 5 pilihan Menu seperti gambar diatas dan An
      diberikan dua opsi yaitu Keluar yang bisa diartikan langsung keluar exit dari program dan Kembali ke Mode Login yang otomatis ketika admin input
      "Kembali",admin akan diarahkan ke Mode Login.
      
-    ![Cuplikan layar 2024-10-14 194143](https://github.com/user-attachments/assets/b962b00f-fa07-4160-819b-55e7ea0fab5f)
+     ![Cuplikan layar 2024-10-14 194143](https://github.com/user-attachments/assets/b962b00f-fa07-4160-819b-55e7ea0fab5f)
 
     * Jika Admin input "Keluar"
     
-      ![Cuplikan layar 2024-10-14 194327](https://github.com/user-attachments/assets/9508c59e-93e0-40c0-b075-48117da308c3)
-
+      ![Cuplikan layar 2024-10-14 194327](https://github.com/user-attachments/assets/d320c398-9b30-483a-8b98-686215a3c622)
+   
     * Jika Admin input "Kembali"
+    
+      ![Cuplikan layar 2024-10-14 194541](https://github.com/user-attachments/assets/013fb8c0-fec0-4af4-b778-3f6ae972f5cb)
 
-      ![Cuplikan layar 2024-10-14 194541](https://github.com/user-attachments/assets/83b5fce3-dd59-49ec-ab73-78f36b8352c4)
-
+     
  # Bagaimana saat di menu Admin, Admin malah input angka yang bukan dari range 1-5?
  
    ![Cuplikan layar 2024-10-14 194730](https://github.com/user-attachments/assets/78899b3e-2497-4aa7-8ca6-2f17abe61d46)
