@@ -8,7 +8,8 @@ Kelas: Sistem Informasi-A
 Tema: Sistem Perhitungan Cuti karyawan
 
 
-============================================================================
-          PERHITUNGAN CUTI KARYAWAN
-============================================================================
+==========================
+PERHITUNGAN CUTI KARYAWAN
+          
+===========================
 
