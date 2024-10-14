@@ -34,7 +34,7 @@ Setelah login sederhana menggunakan Nama, NIM, dan Password akan muncul output s
 
 ![Cuplikan layar 2024-10-14 150144](https://github.com/user-attachments/assets/a2728d6b-1f39-45eb-b194-8836cfe8df16)
 
-Gambar diatas menunjukan user akan dipilih sesuai rolenya yaitu ada Admin dan User.
+Gambar diatas menunjukan Anda akan memilih sesuai role yaitu ada Admin dan User.
 
 * Jika Anda input angka 1, maka Anda login sebagai Admin
 
