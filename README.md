@@ -111,8 +111,8 @@ Pada Menu admin, Anda akan diberikan 5 pilihan Menu seperti gambar diatas dan An
    
    ![Cuplikan layar 2024-10-14 173234](https://github.com/user-attachments/assets/b0f73409-7daa-4ec1-9a91-cbfbacc83586)
    
-   Untuk mengubah cuti karyawan Admin diminta untuk menginputkan id karyawan yang total cuti yang telah diambil nya ingin di perbarui dan Admin juga diminta 
-   untuk menginputkan total cuti yang telah diambil yang ingin diperbarui. Setelah itu akan muncul kata kata bahwa  "Data Karyawan Berhasil Diperbarui"
+   Untuk mengubah cuti karyawan Admin diminta untuk menginputkan id karyawan yang total cuti telah diambil nya ingin di perbarui dan Admin juga diminta untuk menginputkan total cuti telah diambil yang ingin 
+   diperbarui. Setelah itu akan muncul kata kata bahwa  "Data Karyawan Berhasil Diperbarui"
    
    ![Cuplikan layar 2024-10-14 174912](https://github.com/user-attachments/assets/6968b41e-884d-4f84-bfd2-9b0437af079c)
 
@@ -137,7 +137,7 @@ Pada Menu admin, Anda akan diberikan 5 pilihan Menu seperti gambar diatas dan An
 
     ![Cuplikan layar 2024-10-14 183559](https://github.com/user-attachments/assets/ef5a8d8f-a1c1-4292-b4fa-1cd5c9747f4f)
 
-    Untuk menghapus cuti karyawan Admin diminta untuk menginputkan Id karyawan yang Id karyawan yang ingin dihapus dan setelah itu akan muncul kata kata bahwa "Id Karyawan dengan nama karyawan telah dihapus"
+    Untuk menghapus cuti karyawan Admin diminta untuk menginputkan Id karyawan yang Id karyawannya ingin dihapus dan setelah itu akan muncul kata kata bahwa "Id Karyawan dengan nama karyawan telah dihapus"
     
     ![Cuplikan layar 2024-10-14 192152](https://github.com/user-attachments/assets/87afa3cd-8272-422d-b766-9c00a9372b14)
 
