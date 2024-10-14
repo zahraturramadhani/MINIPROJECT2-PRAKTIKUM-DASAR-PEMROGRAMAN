@@ -137,8 +137,8 @@ Pada Menu admin, Anda akan diberikan 5 pilihan Menu seperti gambar diatas dan An
 
     ![Cuplikan layar 2024-10-14 183559](https://github.com/user-attachments/assets/ef5a8d8f-a1c1-4292-b4fa-1cd5c9747f4f)
 
-    Untuk menghapus cuti karyawan Admin diminta untuk menginputkan Id karyawan yang Id karyawannya ingin dihapus dan setelah itu akan muncul kata kata bahwa  "Id 
-    Karyawan dengan nama karyawan telah dihapus"
+    Untuk menghapus cuti karyawan Admin diminta untuk menginputkan Id karyawan yang Id karyawan yang ingin dihapus dan setelah itu akan muncul kata kata bahwa  
+   "Id Karyawan dengan nama karyawan telah dihapus"
     
     ![Cuplikan layar 2024-10-14 192152](https://github.com/user-attachments/assets/87afa3cd-8272-422d-b766-9c00a9372b14)
 
@@ -163,14 +163,14 @@ Pada Menu admin, Anda akan diberikan 5 pilihan Menu seperti gambar diatas dan An
      
      ![Cuplikan layar 2024-10-14 194143](https://github.com/user-attachments/assets/b962b00f-fa07-4160-819b-55e7ea0fab5f)
 
-    * Jika Admin input "Keluar"
+      * Jika Admin input "Keluar"
     
-      ![Cuplikan layar 2024-10-14 205246](https://github.com/user-attachments/assets/f34cb9a8-b729-4ad4-ae25-e40306a29c57)
+        ![Cuplikan layar 2024-10-14 205246](https://github.com/user-attachments/assets/f34cb9a8-b729-4ad4-ae25-e40306a29c57)
 
    
-    * Jika Admin input "Kembali"
-    
-      ![Cuplikan layar 2024-10-14 205148](https://github.com/user-attachments/assets/7093ea47-5fa0-42e3-a9b2-b9eb1301ae55)
+      * Jika Admin input "Kembali"
+   
+        ![Cuplikan layar 2024-10-14 205148](https://github.com/user-attachments/assets/7093ea47-5fa0-42e3-a9b2-b9eb1301ae55)
 
 
      
@@ -222,11 +222,11 @@ Pada Menu User, Anda akan diberikan 3 pilihan Menu seperti gambar diatas dan And
 
      ![Cuplikan layar 2024-10-14 203539](https://github.com/user-attachments/assets/0bd9eb80-cfd6-4c69-90f9-749ad19ef4dc)
 
-  * Jika jumlah cuti yang diambil >= sisa cuti, maka jumlah cuti yang diinginkan tidak bisa terambil, ouputnya bisa dilihat seperti gambar dibawah ini.
+   * Jika jumlah cuti yang diambil >= sisa cuti, maka jumlah cuti yang diinginkan tidak bisa terambil, ouputnya bisa dilihat seperti gambar dibawah ini.
 
-    ![Cuplikan layar 2024-10-14 202552](https://github.com/user-attachments/assets/1d61a3c4-2b97-4844-8d4b-369b2119904f)
+     ![Cuplikan layar 2024-10-14 202552](https://github.com/user-attachments/assets/1d61a3c4-2b97-4844-8d4b-369b2119904f)
 
-  Setelah itu juga User akan ditanya kembali apakah ingin mengambil cuti lagi dengan sistem looping (ya/tidak)
+  Setelah itu juga User akan ditanya kembali apakah ingin mengambil cuti lagi dengan sistem looping (ya/tidak):
   
    * Jika User menginputkan "ya" otomatis User akan terlooping ke input "Masukkan Nama Anda " sampai input "jumlah cuti yang ingin diambil" seperti pada contoh 
      diatas.
@@ -241,7 +241,7 @@ Pada Menu User, Anda akan diberikan 3 pilihan Menu seperti gambar diatas dan And
 
    Ketika User sudah cukup menggunakan menunya, User bisa memilih menu ke 3 yaitu Keluar atau Kembali ke Mode Login. Disaat memilih User akan 
    diberikan dua opsi yaitu Keluar yang bisa diartikan langsung keluar exit dari program dan Kembali ke Mode Login yang otomatis ketika admin input
-   "Kembali",admin akan diarahkan ke Mode Login.
+   "Kembali", User akan diarahkan ke Mode Login.
      
    ![Cuplikan layar 2024-10-14 203810](https://github.com/user-attachments/assets/677c4ab5-d432-4bf5-9bc4-fa3a5a88e04a)
 
@@ -251,7 +251,8 @@ Pada Menu User, Anda akan diberikan 3 pilihan Menu seperti gambar diatas dan And
 
    * Jika User input "Kembali"
      
-    ![Cuplikan layar 2024-10-14 203923](https://github.com/user-attachments/assets/e54479e0-81f3-44f8-a2ea-2e7bc492b813)
+     ![Cuplikan layar 2024-10-14 210528](https://github.com/user-attachments/assets/b0cd8a14-9f15-438e-b96d-7b04a00eb389)
+
 
      
  # Bagaimana saat di menu User, User malah input angka yang bukan dari range 1-3?
