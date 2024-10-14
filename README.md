@@ -137,8 +137,7 @@ Pada Menu admin, Anda akan diberikan 5 pilihan Menu seperti gambar diatas dan An
 
     ![Cuplikan layar 2024-10-14 183559](https://github.com/user-attachments/assets/ef5a8d8f-a1c1-4292-b4fa-1cd5c9747f4f)
 
-    Untuk menghapus cuti karyawan Admin diminta untuk menginputkan Id karyawan yang Id karyawan yang ingin dihapus dan setelah itu akan muncul kata kata bahwa  
-   "Id Karyawan dengan nama karyawan telah dihapus"
+    Untuk menghapus cuti karyawan Admin diminta untuk menginputkan Id karyawan yang Id karyawan yang ingin dihapus dan setelah itu akan muncul kata kata bahwa "Id Karyawan dengan nama karyawan telah dihapus"
     
     ![Cuplikan layar 2024-10-14 192152](https://github.com/user-attachments/assets/87afa3cd-8272-422d-b766-9c00a9372b14)
 
