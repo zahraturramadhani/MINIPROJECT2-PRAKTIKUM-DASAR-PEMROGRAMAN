@@ -165,11 +165,13 @@ Pada Menu admin, Anda akan diberikan 5 pilihan Menu seperti gambar diatas dan An
 
     * Jika Admin input "Keluar"
     
-      ![Cuplikan layar 2024-10-14 194327](https://github.com/user-attachments/assets/d320c398-9b30-483a-8b98-686215a3c622)
+      ![Cuplikan layar 2024-10-14 205246](https://github.com/user-attachments/assets/f34cb9a8-b729-4ad4-ae25-e40306a29c57)
+
    
     * Jika Admin input "Kembali"
     
-      ![Cuplikan layar 2024-10-14 194541](https://github.com/user-attachments/assets/013fb8c0-fec0-4af4-b778-3f6ae972f5cb)
+      ![Cuplikan layar 2024-10-14 205148](https://github.com/user-attachments/assets/7093ea47-5fa0-42e3-a9b2-b9eb1301ae55)
+
 
      
  # Bagaimana saat di menu Admin, Admin malah input angka yang bukan dari range 1-5?
