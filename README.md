@@ -30,5 +30,14 @@ Setelah login sederhana menggunakan Nama, NIM, dan Password akan muncul output s
 
 ![Cuplikan layar 2024-10-14 145444](https://github.com/user-attachments/assets/5a708790-12e7-4cd8-bce6-ac2e7a24f750)
 
+# Menu Login Apakah Anda Sebagai Admin atau User
+
+![Cuplikan layar 2024-10-14 150144](https://github.com/user-attachments/assets/a2728d6b-1f39-45eb-b194-8836cfe8df16)
+
+Gambar diatas menunjukan user akan dipilih sesuai rolenya yaitu ada Admin dan User.
+
+* Jika Anda input angka 1, maka Anda login sebagai Admin
+
+  ![Cuplikan layar 2024-10-14 150554](https://github.com/user-attachments/assets/60bf0e8a-9d64-4eb6-b3b1-e4d1ca8d407b)
 
 
